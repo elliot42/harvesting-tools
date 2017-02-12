@@ -15,7 +15,7 @@ A collection of code snippets mostly designed to be dropped into the data harves
 
 ## Matching Tools and Datasets
 
-Each tool in this repo has a fairly specific use case. Your choice will depend on the shape and size of the data you're dealing with. Some datasetswill require more creativity/more elaborate tools. If you write a new tool, please [add it to the repo](#contributing).
+Each tool in this repo has a fairly specific use case. Your choice will depend on the shape and size of the data you're dealing with. Some datasetswill require more creativity/more elaborate tools. If you write a new tool, please [add it to the repo](./CONTRIBUTING.md).
 
 ### [wget-loop](./wget-loop) for largely static resources
 
